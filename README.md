@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://priyam-kesarwani.vercel.app" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:priyamkesarwani.dev@gmail.com">📩 Contact</a> •
-  <a href="https://www.linkedin.com/in/priyam-kesarwani/" target="_blank">💼 LinkedIn</a>
+  <a href="mailto:priyamk778@gmail.com">📩 Contact</a> •
+  <a href="https://www.linkedin.com/in/priyam-kesarwani-55aa0924b/" target="_blank">💼 LinkedIn</a>
 </p>
 
 ---
