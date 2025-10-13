@@ -1,4 +1,6 @@
-![Profile Photo](https://github.com/user-attachments/assets/0123d091-8cdc-4de4-83ef-49e10fbbbe45)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0123d091-8cdc-4de4-83ef-49e10fbbbe45" alt="Profile Photo" width="150" height="150" style="border-radius:50%;">
+</p>
 
 <h1 align="center">Hi 👋, I'm Priyam Kesarwani</h1>
 <h3 align="center">Full-Stack Developer | ML Enthusiast | Problem Solver</h3>
