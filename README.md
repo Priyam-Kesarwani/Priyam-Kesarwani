@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Priyam Kesarwani</h1>
-<h3 align="center">Full-Stack Developer | ML Enthusiast | Problem Solver</h3>
+<h3 align="center">MERN Developer | 4🌟 @CodeChef | 1000+ DSA Problems Solved</h3>
 
 <p align="center">
   <a href="https://priyam-kesarwani.vercel.app" target="_blank">🌐 Portfolio</a> •
@@ -16,33 +16,66 @@
 ### 👨‍💻 About Me
 
 🚀 Passionate about building scalable web apps and solving algorithmic challenges.  
-💡 Experienced in **MERN Stack**, **Machine Learning**, and **Data Structures & Algorithms (DSA)**.  
+💡 Experienced in **MERN Stack** and **Data Structures & Algorithms (DSA)**.  
 🎯 Focused on writing clean, maintainable, and efficient code.  
 📈 Constantly learning and improving through open-source and real-world projects.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack  
 
 **Languages:**  
-`C++` `Python` `JavaScript` `TypeScript` `Java`
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Frameworks & Libraries:**  
-`React.js` `Node.js` `Express` `Tailwind CSS` `EJS` `MongoDB`
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Other Tools:**  
-`Git` `GitHub` `VS Code` `Postman` `Render` `Vercel`
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![Rapid API](https://img.shields.io/badge/Rapid_API-4B8BBE?style=for-the-badge&logo=rapid&logoColor=white)
+
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Developer Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Core CS Concepts:**  
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-2E8B57?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-1E90FF?style=for-the-badge)
+![Operating System](https://img.shields.io/badge/Operating%20System-FF8C00?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-FFD700?style=for-the-badge)
 
 ---
 
 ### 🌟 Featured Projects
 
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| [🏠 Airbnb Replica](https://github.com/Priyam-Kesarwani/airbnb-clone) | A simplified version of Airbnb with host/guest authentication and listings. | React, Node.js, Express, MongoDB |
-| [📝 Todo App (MVC)](https://github.com/Priyam-Kesarwani/todo-mvc) | A task manager app with MongoDB, Express, and EJS views. | Node.js, Express, MongoDB, EJS |
-| [🏦 Bank Management System](https://github.com/Priyam-Kesarwani/bank-management) | Object-oriented banking system with real-time transactions. | Python, OOP |
-| [🤖 ML Algorithms Comparison](https://github.com/Priyam-Kesarwani/ml-algo-comparison) | Implementation and comparison of Decision Tree, SVM, Logistic Regression, etc. | Python, scikit-learn |
+### 🏠 [HostKindle](https://github.com/Priyam-Kesarwani/airbnb-clone)
+A full-featured **house hosting platform** where users can list, host, and book properties.  
+Built with **MERN stack**, includes **dual authentication (Host & Guest)**, secure APIs, and a **responsive UI**.
+
+### 💰 [Finance Flow](https://github.com/Priyam-Kesarwani/Finance-Flow)
+An intuitive **expense tracker** for managing income and expenses with real-time analytics using **Recharts**.  
+Developed with **MERN stack**, featuring secure authentication and a clean, data-driven dashboard.
+
 
 ---
 
@@ -65,8 +98,8 @@
 ### 📬 Connect with Me
 
 <p align="left">
-  <a href="mailto:priyamkesarwani.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/priyam-kesarwani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:priyamk778@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/priyam-kesarwani-55aa0924b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://priyam-kesarwani.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
