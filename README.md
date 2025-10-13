@@ -1,3 +1,5 @@
+![Profile Photo](https://github.com/user-attachments/assets/0123d091-8cdc-4de4-83ef-49e10fbbbe45)
+
 <h1 align="center">Hi 👋, I'm Priyam Kesarwani</h1>
 <h3 align="center">Full-Stack Developer | ML Enthusiast | Problem Solver</h3>
 
