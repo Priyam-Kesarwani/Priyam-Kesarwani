@@ -68,7 +68,7 @@
 
 ### 🌟 Featured Projects
 
-### 🏠 [HostKindle](https://github.com/Priyam-Kesarwani/airbnb-clone)
+### 🏠 [HostKindle](https://github.com/Priyam-Kesarwani/HostKindle)
 A full-featured **house hosting platform** where users can list, host, and book properties.  
 Built with **MERN stack**, includes **dual authentication (Host & Guest)**, secure APIs, and a **responsive UI**.
 
