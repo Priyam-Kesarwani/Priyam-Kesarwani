@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Priyam Kesarwani</h1>
-<h3 align="center">MERN Developer | 4🌟 at CodeChef | Top 7% on Leetcode | 1000+ DSA Problems Solved</h3>
+<h3 align="center">MERN Developer | 4🌟 at CodeChef | Top 5.67% on Leetcode | 1000+ DSA Problems Solved</h3>
 
 <p align="center">
   <a href="https://priyam-kesarwani.vercel.app" target="_blank">🌐 Portfolio</a> •
