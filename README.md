@@ -88,10 +88,9 @@ Developed with **MERN stack**, featuring secure authentication and a clean, data
 
 ---
 
-### 🧩 Competitive Programming
+### 🏆 Coding Profiles
 
-- Solving on **LeetCode**, **Codeforces**, and **GeeksforGeeks**  
-- Skilled in **Data Structures, Algorithms, and Optimization Techniques**
+<p align="left"> <a href="https://www.codechef.com/users/priyamstar" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a> <a href="https://leetcode.com/Priyam_Kesarwani" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a> </p>
 
 ---
 
