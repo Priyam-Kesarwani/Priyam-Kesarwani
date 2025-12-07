@@ -90,7 +90,7 @@ Developed with **MERN stack**, featuring secure authentication and a clean, data
 
 ### 🏆 Coding Profiles
 
-<p align="left"> <a href="https://www.codechef.com/users/priyamstar" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a> <a href="https://leetcode.com/Priyam_Kesarwani" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a> </p>
+<p align="left"> <!-- CodeChef --> <a href="https://www.codechef.com/users/priyamstar" target="_blank"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /> </a> <!-- LeetCode --> <a href="https://leetcode.com/Priyam_Kesarwani" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> <!-- Codeforces --> <a href="https://codeforces.com/profile/Priyam_Kesarwani" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /> </a> <!-- GeeksforGeeks --> <a href="https://auth.geeksforgeeks.org/user/priyam_kesarwani" target="_blank"> <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> </a> <!-- Naukri --> <a href="https://www.naukri.com/mnjuser/profile" target="_blank"> <img src="https://img.shields.io/badge/Naukri-0078D4?style=for-the-badge&logo=naukri&logoColor=white" /> </a> <!-- SPOJ --> <a href="https://www.spoj.com/users/priyamstar/" target="_blank"> <img src="https://img.shields.io/badge/SPOJ-000000?style=for-the-badge&logo=spoj&logoColor=white" /> </a> </p>
 
 ---
 
